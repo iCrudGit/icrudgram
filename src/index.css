@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500;900&display=swap');
+*{
+    font-family: 'Roboto Slab', serif;
+}
+
+.card {
+    box-shadow: 0 0 7px gray
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
